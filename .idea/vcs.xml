@@ -2,8 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/posthog" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/take_homes/indeed/fresh_from_git/progex-locauto" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/take_homes/indeed/progex-locauto" vcs="Git" />
   </component>
 </project>
